@@ -1,0 +1,5 @@
+Study Guide AB730
+https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ab-730
+
+Site to Scrape AB730
+https://learn.microsoft.com/en-us/training/paths/transform-business-workflows-with-ai/
